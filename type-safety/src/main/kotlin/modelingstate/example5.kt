@@ -16,5 +16,5 @@ private fun main() {
         is Either.Right -> println("User's name was ${result.value}")
     }
 
-    // or use fold(..) again 
+    // or use fold(..) again
 }
